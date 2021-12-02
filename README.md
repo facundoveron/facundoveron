@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Facundo Veron</h1>
 <h3 align="center">Developer Back-End. Java/Spring/Nginx - SQL - Docker/Jenkins/Bash - Linux</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/facundo-veron-8bb95521b/</h3>
 <p align="left">
 </p>
 
